@@ -1,1 +1,11 @@
-# Add your project dependencies here
+#These are the tools for Reddit scraping, sentiment analysis, visualization, and the basic dashboard. 
+praw
+vaderSentiment
+matplotlib
+seaborn
+pandas
+scikit-learn
+wordcloud
+streamlit
+transformers
+torch
